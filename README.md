@@ -2,11 +2,14 @@
 
 ### Find me 
 <p>
-    <a href="instagram.com/math.srego/">
-        <img src="..resources/instagram.svg" alt="instagram"/>
+    <a href="https://instagram.com/math.srego/">
+        <img src="/math09/resources/instagram.svg" alt="instagram" style="vertical-align:top; margin:1px"/>
     </a>
 </p>
 
+<style>
+    
+</style>
 <!--
 **Math09/math09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
