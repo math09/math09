@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Find me 
+<p>
+    <a href="instagram.com/math.srego/">
+        <img src="..resources/instagram.svg" alt="instagram"/>
+    </a>
+</p>
+
 <!--
 **Math09/math09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
