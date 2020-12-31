@@ -3,13 +3,13 @@
 ### Find me 
 <p align="center">
     <a href="https://instagram.com/math.srego/">
-        <img src="https://github.com/Math09/math09/blob/main/resources/icon_instagram.svg" alt="Instagram" width="15px"; heigth="15px"; style="vertical-align:top; margin:5px"/>
+        <img src="https://github.com/Math09/math09/blob/main/resources/icon_instagram.svg" alt="Instagram" width="35px"; heigth="35px"; style="vertical-align:top; margin:0 25px"/>
     </a>
     <a href="https://www.linkedin.com/in/matheus-silva-rego/">
-        <img src="https://github.com/Math09/math09/blob/main/resources/icon_linkedin.svg" alt="Linkedin" width="15px"; heigth="15px"; style="vertical-align:top; margin:5px"/>
+        <img src="https://github.com/Math09/math09/blob/main/resources/icon_linkedin.svg" alt="Linkedin" width="35px"; heigth="35px"; style="vertical-align:top; margin:0 25px"/>
     </a>
     <a href="https://medium.com/@math-srego">
-        <img src="https://github.com/Math09/math09/blob/main/resources/icon_medium.svg" alt="Medium" width="15px"; heigth="15px"; style="vertical-align:top; margin:5px"/>
+        <img src="https://github.com/Math09/math09/blob/main/resources/icon_medium.svg" alt="Medium" width="35px"; heigth="35px"; style="vertical-align:top; margin:0 25px"/>
     </a>
 </p>
 
