@@ -1,25 +1,15 @@
 ## Hi, I'm Matheus! 👋🏻 💻🔭🌌
 <!-- https://shields.io/ -->
-<!-- https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexssantos/
- -->
-[![Linkedin Badge](https://img.shields.io/badge/-resources/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-rego/)](https://www.linkedin.com/in/matheus-silva-rego/)
-
-
-<!-- https://www.iconfinder.com/ -->
-<!--
-<a href="https://instagram.com/math.srego/">
-    <img alt="Instagram" width="35px" align="left" src="https://github.com/Math09/math09/blob/main/resources/icon_instagram.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/matheus-silva-rego/">
-    <img alt="Linkedin" width="35px" align="left" src="https://github.com/Math09/math09/blob/main/resources/icon_linkedin.svg"/>
-</a>
-<a href="https://medium.com/@math-srego">
-    <img alt="Medium" width="35px" align="left" src="https://github.com/Math09/math09/blob/main/resources/icon_medium.svg"/>
-</a>
+<!-- 
+     LinkedIn HEX: #0e76a8
+     Outlook HEX: #0072C6
+     Instagram HEX: #833AB4
 -->
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23833AB4?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/math.srego/)](https://instagram.com/math.srego/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-rego/)](https://www.linkedin.com/in/matheus-silva-rego/)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-%230072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:matheus.srego@outlook.com)](mailto:matheus.srego@outlook.com)
 
-<br/>
-<br/>
+---
 
 ### Github status:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -28,5 +18,5 @@
 </a>
 
 <!--
-**Math09/math09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    **Math09/math09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
