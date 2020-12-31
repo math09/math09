@@ -1,18 +1,13 @@
-### Hi there 👋
-
-### Find me 
-<p align="center">
-    <a href="https://instagram.com/math.srego/">
-        <img src="https://github.com/Math09/math09/blob/main/resources/icon_instagram.svg" alt="Instagram" width="35px"; heigth="35px"; style="vertical-align:top; margin:0 25px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/matheus-silva-rego/">
-        <img src="https://github.com/Math09/math09/blob/main/resources/icon_linkedin.svg" alt="Linkedin" width="35px"; heigth="35px"; style="vertical-align:top; margin:0 25px"/>
-    </a>
-    <a href="https://medium.com/@math-srego">
-        <img src="https://github.com/Math09/math09/blob/main/resources/icon_medium.svg" alt="Medium" width="35px"; heigth="35px"; style="vertical-align:top; margin:0 25px"/>
-    </a>
-</p>
-
+## Hi, I'm Matheus! 👋🏻 💻🔭🌌
+<a href="https://instagram.com/math.srego/">
+    <img alt="Instagram" width="35px" align="left" src="https://github.com/Math09/math09/blob/main/resources/icon_instagram.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/matheus-silva-rego/">
+    <img alt="Linkedin" width="35px" align="left" src="https://github.com/Math09/math09/blob/main/resources/icon_linkedin.svg"/>
+</a>
+<a href="https://medium.com/@math-srego">
+    <img alt="Medium" width="35px" align="left" src="https://github.com/Math09/math09/blob/main/resources/icon_medium.svg"/>
+</a>
 <!--
 **Math09/math09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
