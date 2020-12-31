@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 ### Find me 
-<p>
+<p align="center">
     <a href="https://instagram.com/math.srego/">
-        <img src="https://github.com/Math09/math09/blob/main/resources/icon_instagram.svg" alt="instagram" style="width:1px; heigth:1px; vertical-align:top; margin:1px"/>
+        <img src="https://github.com/Math09/math09/blob/main/resources/icon_instagram.svg" alt="instagram" width="3%"; heigth="3%"; style="vertical-align:top; margin:1px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/matheus-silva-rego/">
+        <img src="https://github.com/Math09/math09/blob/main/resources/icon_linkedin.svg" alt="linkedin" width="3%"; heigth="3%"; style="vertical-align:top; margin:1px"/>
     </a>
 </p>
 
