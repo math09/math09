@@ -1,5 +1,5 @@
 ## Hi, I'm Matheus! 👋🏻 💻🔭🌌
-[![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=math09)](https://github.com/Math09)
+<!-- [![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=math09)](https://github.com/Math09) -->
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23833AB4?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/math.srego/)](https://instagram.com/math.srego/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-rego/)](https://www.linkedin.com/in/matheus-silva-rego/)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-%230072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:matheus.srego@outlook.com)](mailto:matheus.srego@outlook.com)
