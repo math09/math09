@@ -2,6 +2,13 @@
 
 <div align="center">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-srego&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+
 #### What I use!
 
 ##### Languages
