@@ -12,8 +12,8 @@
 </div>
 
 <div align="center">
-    <img alt="Matheus S. Rego's github stats." height="190em" src="https://github-readme-stats.vercel.app/api?username=matheus-srego&theme=radical&show_icons=true"/>
-    <img alt="Matheus S. Rego's wakatime stats." height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-srego&theme=dark&layout=compact"/>
+    <img alt="Matheus S. Rego's github stats." height="185em" src="https://github-readme-stats.vercel.app/api?username=matheus-srego&theme=radical&show_icons=true"/>
+    <img alt="Matheus S. Rego's wakatime stats." height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-srego&theme=dark&layout=compact"/>
 </div>
 
 
