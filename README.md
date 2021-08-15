@@ -1,4 +1,4 @@
-## Hello, I'm Matheus! 🔭
+## Hi! I'm Matheus! 🔭
 
 <br/>
 <div align="center">
