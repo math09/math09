@@ -1,4 +1,4 @@
-## Hi! I'm Matheus! 🔭
+## Hi! This is my README! 🔭
 
 <br/>
 <div align="center">
@@ -12,10 +12,9 @@
 </div>
 
 <div align="center">
-    <img alt="Matheus S. Rego's github stats." height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-srego&theme=radical&show_icons=true"/>
-    <img alt="Matheus S. Rego's wakatime stats." height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-srego&theme=dark&layout=compact"/>
+    <img alt="Matheus S. Rego's github stats." height="165em" src="https://github-readme-stats.vercel.app/api?username=matheus-srego&theme=radical&show_icons=true"/>
+    <img alt="Matheus S. Rego's wakatime stats." height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-srego&theme=dark&layout=compact"/>
 </div>
-
 
 <br/>
 
