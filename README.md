@@ -1,4 +1,4 @@
-## Hi! This is my README! 🔭
+## Oiii, eu sou Matheus! 🔭
 
 <br/>
 <div align="center">
@@ -18,26 +18,23 @@
 
 <br/>
 
----
+## 
 
 <div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  
+    <img alt="TypeScript Icon" style="margin: 5px" width="45px" height="45px" src="./icons/typescript.svg">
+    <img alt="AngularJS Icon" style="margin: 5px" width="45px" height="45px" src="./icons/angularjs.svg">
+    <img alt="Java Icon" style="margin: 5px" width="45px" height="45px" src="./icons/java.svg">
+    <img alt="Python Icon" style="margin: 5px" width="45px" height="45px" src="./icons/python.svg">
+    <img alt="JSON Icon" style="margin: 5px" width="80px" height="45px" src="./icons/json.svg">
+    <img alt="Bash Icon" style="margin: 5px" width="45px" height="45px" src="./icons/bash.svg">
+    <img alt="SQL Server Icon" style="margin: 5px" width="45px" height="45px" src="./icons/microsoftsqlserver.svg">
+    <img alt="MySQL Icon" style="margin: 5px" width="45px" height="45px" src="./icons/mysql.svg">
+    <img alt="Spring Icon" style="margin: 5px" width="45px" height="45px" src="./icons/spring.svg">
+    <img alt="Git Icon" style="margin: 5px" width="45px" height="45px" src="./icons/git.svg">
+    <img alt="Postman Icon" style="margin: 5px" width="45px" height="45px" src="./icons/postman.svg">
+    <img alt="VS Code Icon" style="margin: 5px" width="45px" height="45px" src="./icons/vscode.svg">
+    <img alt="Ubuntu Icon" style="margin: 5px" width="45px" height="45px" src="./icons/ubuntu.svg">
+    <img alt="Raspberry Pi Icon" style="margin: 5px" width="45px" height="45px" src="./icons/raspberrypi.svg">
 </div>
 
 <!--
