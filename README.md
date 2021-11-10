@@ -1,6 +1,5 @@
 ## Oiii, eu sou Matheus! 🔭
 
-<br/>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-rego/)
@@ -16,25 +15,23 @@
     <img alt="Matheus S. Rego's wakatime stats." height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-srego&theme=dark&layout=compact"/>
 </div>
 
-<br/>
-
 ## 
 
 <div align="center">
-    <img alt="TypeScript Icon" style="margin: 5px" width="45px" height="45px" src="./icons/typescript.svg">
-    <img alt="AngularJS Icon" style="margin: 5px" width="45px" height="45px" src="./icons/angularjs.svg">
-    <img alt="Java Icon" style="margin: 5px" width="45px" height="45px" src="./icons/java.svg">
-    <img alt="Python Icon" style="margin: 5px" width="45px" height="45px" src="./icons/python.svg">
-    <img alt="JSON Icon" style="margin: 5px" width="80px" height="45px" src="./icons/json.svg">
-    <img alt="Bash Icon" style="margin: 5px" width="45px" height="45px" src="./icons/bash.svg">
-    <img alt="SQL Server Icon" style="margin: 5px" width="45px" height="45px" src="./icons/microsoftsqlserver.svg">
-    <img alt="MySQL Icon" style="margin: 5px" width="45px" height="45px" src="./icons/mysql.svg">
-    <img alt="Spring Icon" style="margin: 5px" width="45px" height="45px" src="./icons/spring.svg">
-    <img alt="Git Icon" style="margin: 5px" width="45px" height="45px" src="./icons/git.svg">
-    <img alt="Postman Icon" style="margin: 5px" width="45px" height="45px" src="./icons/postman.svg">
-    <img alt="VS Code Icon" style="margin: 5px" width="45px" height="45px" src="./icons/vscode.svg">
-    <img alt="Ubuntu Icon" style="margin: 5px" width="45px" height="45px" src="./icons/ubuntu.svg">
-    <img alt="Raspberry Pi Icon" style="margin: 5px" width="45px" height="45px" src="./icons/raspberrypi.svg">
+    <img alt="TypeScript Icon" style="margin: 5px" width="35px" height="35px" src="./icons/typescript.svg">
+    <img alt="AngularJS Icon" style="margin: 5px" width="35px" height="35px" src="./icons/angularjs.svg">
+    <img alt="Java Icon" style="margin: 5px" width="35px" height="35px" src="./icons/java.svg">
+    <img alt="Python Icon" style="margin: 5px" width="35px" height="35px" src="./icons/python.svg">
+    <img alt="JSON Icon" style="margin: 5px" width="80px" height="35px" src="./icons/json.svg">
+    <img alt="Bash Icon" style="margin: 5px" width="35px" height="35px" src="./icons/bash.svg">
+    <img alt="SQL Server Icon" style="margin: 5px" width="35px" height="35px" src="./icons/microsoftsqlserver.svg">
+    <img alt="MySQL Icon" style="margin: 5px" width="35px" height="35px" src="./icons/mysql.svg">
+    <img alt="Spring Icon" style="margin: 5px" width="35px" height="35px" src="./icons/spring.svg">
+    <img alt="Git Icon" style="margin: 5px" width="35px" height="35px" src="./icons/git.svg">
+    <img alt="Postman Icon" style="margin: 5px" width="35px" height="35px" src="./icons/postman.svg">
+    <img alt="VS Code Icon" style="margin: 5px" width="35px" height="35px" src="./icons/vscode.svg">
+    <img alt="Ubuntu Icon" style="margin: 5px" width="35px" height="35px" src="./icons/ubuntu.svg">
+    <img alt="Raspberry Pi Icon" style="margin: 5px" width="35px" height="35px" src="./icons/raspberrypi.svg">
 </div>
 
 <!--
