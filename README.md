@@ -18,20 +18,20 @@
 ## 
 
 <div align="center">
-    <img alt="TypeScript Icon" style="margin: 15px" width="35px" height="35px" src="./icons/typescript.svg">
-    <img alt="AngularJS Icon" style="margin: 15px" width="35px" height="35px" src="./icons/angularjs.svg">
-    <img alt="Java Icon" style="margin: 15px" width="35px" height="35px" src="./icons/java.svg">
-    <img alt="Python Icon" style="margin: 15px" width="35px" height="35px" src="./icons/python.svg">
-    <img alt="JSON Icon" style="margin: 15px" width="80px" height="35px" src="./icons/json.svg">
-    <img alt="Bash Icon" style="margin: 15px" width="35px" height="35px" src="./icons/bash.svg">
-    <img alt="SQL Server Icon" style="margin: 15px" width="35px" height="35px" src="./icons/microsoftsqlserver.svg">
-    <img alt="MySQL Icon" style="margin: 15px" width="35px" height="35px" src="./icons/mysql.svg">
-    <img alt="Spring Icon" style="margin: 15px" width="35px" height="35px" src="./icons/spring.svg">
-    <img alt="Git Icon" style="margin: 15px" width="35px" height="35px" src="./icons/git.svg">
-    <img alt="Postman Icon" style="margin: 15px" width="35px" height="35px" src="./icons/postman.svg">
-    <img alt="VS Code Icon" style="margin: 15px" width="35px" height="35px" src="./icons/vscode.svg">
-    <img alt="Ubuntu Icon" style="margin: 15px" width="35px" height="35px" src="./icons/ubuntu.svg">
-    <img alt="Raspberry Pi Icon" style="margin: 15px" width="35px" height="35px" src="./icons/raspberrypi.svg">
+    <img alt="TypeScript Icon"  width="35px" height="35px" src="./icons/typescript.svg">
+    <img alt="AngularJS Icon"  width="35px" height="35px" src="./icons/angularjs.svg">
+    <img alt="Java Icon"  width="35px" height="35px" src="./icons/java.svg">
+    <img alt="Python Icon"  width="35px" height="35px" src="./icons/python.svg">
+    <img alt="JSON Icon"  width="80px" height="35px" src="./icons/json.svg">
+    <img alt="Bash Icon"  width="35px" height="35px" src="./icons/bash.svg">
+    <img alt="SQL Server Icon"  width="35px" height="35px" src="./icons/microsoftsqlserver.svg">
+    <img alt="MySQL Icon"  width="35px" height="35px" src="./icons/mysql.svg">
+    <img alt="Spring Icon"  width="35px" height="35px" src="./icons/spring.svg">
+    <img alt="Git Icon"  width="35px" height="35px" src="./icons/git.svg">
+    <img alt="Postman Icon"  width="35px" height="35px" src="./icons/postman.svg">
+    <img alt="VS Code Icon"  width="35px" height="35px" src="./icons/vscode.svg">
+    <img alt="Ubuntu Icon"  width="35px" height="35px" src="./icons/ubuntu.svg">
+    <img alt="Raspberry Pi Icon"  width="35px" height="35px" src="./icons/raspberrypi.svg">
 </div>
 
 <!--
