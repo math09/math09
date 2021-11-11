@@ -1,6 +1,5 @@
-## Hi! This is my README! 🔭
+## Oiii, eu sou Matheus! 🔭
 
-<br/>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-rego/)
@@ -16,28 +15,23 @@
     <img alt="Matheus S. Rego's wakatime stats." height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-srego&theme=dark&layout=compact"/>
 </div>
 
-<br/>
-
----
+## 
 
 <div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  
+    <img alt="TypeScript Icon"  width="35px" height="35px" src="./icons/typescript.svg">
+    <img alt="AngularJS Icon"  width="35px" height="35px" src="./icons/angularjs.svg">
+    <img alt="Java Icon"  width="35px" height="35px" src="./icons/java.svg">
+    <img alt="Python Icon"  width="35px" height="35px" src="./icons/python.svg">
+    <img alt="JSON Icon"  width="80px" height="35px" src="./icons/json.svg">
+    <img alt="Bash Icon"  width="35px" height="35px" src="./icons/bash.svg">
+    <img alt="SQL Server Icon"  width="35px" height="35px" src="./icons/microsoftsqlserver.svg">
+    <img alt="MySQL Icon"  width="35px" height="35px" src="./icons/mysql.svg">
+    <img alt="Spring Icon"  width="35px" height="35px" src="./icons/spring.svg">
+    <img alt="Git Icon"  width="35px" height="35px" src="./icons/git.svg">
+    <img alt="Postman Icon"  width="35px" height="35px" src="./icons/postman.svg">
+    <img alt="VS Code Icon"  width="35px" height="35px" src="./icons/vscode.svg">
+    <img alt="Ubuntu Icon"  width="35px" height="35px" src="./icons/ubuntu.svg">
+    <img alt="Raspberry Pi Icon"  width="35px" height="35px" src="./icons/raspberrypi.svg">
 </div>
 
 <!--
