@@ -1,4 +1,5 @@
-## Oiii, eu sou Matheus! 🔭
+## Hi!👋🏻 My name is Matheus!
+#### *But I go by the name of Math!*
 
 <div align="center">
 
