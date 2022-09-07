@@ -1,5 +1,7 @@
-## Hi!👋🏻 My name is Matheus!
-#### *But I go by the name of Math!*
+<h2>Hi!👋🏻 My name is Matheus!</h2>
+<h3>But I go by the name of Math!</h3>
+
+###
 
 <div align="center">
     <img alt="Matheus's github stats." height="165em" src="https://github-readme-stats.vercel.app/api?username=matheus-srego&theme=discord_old_blurple&show_icons=true" />
@@ -16,10 +18,10 @@
     <img alt="Python" align="center" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/python/python-original.svg">
     <img alt="TypeScript" align="center" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img alt="Java" align="center" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img alt="Raspberry Pi" align="center" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
-    <img alt="Docker" align="center" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img alt="Ubuntu" align="center" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
     <img alt="Spring Framework" align="center" height="30" width="30" src="https://raw.github.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img alt="Docker" align="center" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img alt="Raspberry Pi" align="center" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
+    <img alt="Ubuntu" align="center" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
     
 </div>
 
