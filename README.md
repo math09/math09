@@ -10,7 +10,7 @@
 
 ### 
 
-<img alt="GIF" align="right" height="200" src="https://64.media.tumblr.com/326bc54caa2090814437d5f1684d2d09/7d87e098057c7c6e-9a/s540x810/4e9ca71b10fddcce4d0d519023ea24301bdde30f.gif">
+<img alt="GIF" align="right" height="200" src="https://github.com/matheus-srego/matheus-srego/blob/v3.0/gif/Finn_the_Human.png">
 
 ### 
 
