@@ -10,7 +10,7 @@
 
 ### 
 
-<img alt="GIF Finn" align="right" height="175" src="https://github.com/matheus-srego/matheus-srego/blob/v3.0/gif/d57t1u7-d9d18ca0-4972-4bca-8f6d-f058756e5814.gif">
+<img alt="GIF Finn" align="right" height="175" width="175" src="https://github.com/matheus-srego/matheus-srego/blob/v3.0/gif/d57t1u7-d9d18ca0-4972-4bca-8f6d-f058756e5814.gif">
 
 ### 
 
