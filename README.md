@@ -1,7 +1,5 @@
-<h2>Hi!👋🏻 My name is Matheus!</h2>
-<h3>But I go by the name of Math!</h3>
-
-###
+## Hiii,👋🏻 My name is Matheus! </>
+<p font-size="1px"><i>But I go by the name of Math!</i></p>
 
 <div align="center">
     <img alt="Matheus's github stats." height="165em" src="https://github-readme-stats.vercel.app/api?username=matheus-srego&theme=discord_old_blurple&show_icons=true" />
@@ -10,7 +8,7 @@
 
 ### 
 
-<img alt="GIF" align="right" height="200" src="https://64.media.tumblr.com/326bc54caa2090814437d5f1684d2d09/7d87e098057c7c6e-9a/s540x810/4e9ca71b10fddcce4d0d519023ea24301bdde30f.gif">
+<img alt="GIF Finn" align="right" height="175" width="175" src="https://github.com/matheus-srego/matheus-srego/blob/v3.0/gif/d57t1u7-d9d18ca0-4972-4bca-8f6d-f058756e5814.gif">
 
 ### 
 
