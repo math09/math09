@@ -8,7 +8,7 @@
 
 ### 
 
-<img alt="GIF Finn" align="right" height="179" width="179" src="https://github.com/matheus-srego/matheus-srego/blob/v3.0/gif/finn_draw.gif">
+<img alt="GIF Finn" align="right" height="200" width="200" src="https://github.com/matheus-srego/matheus-srego/blob/main/gif/finn_draw.gif">
 
 ### 
 
