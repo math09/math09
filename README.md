@@ -1,7 +1,5 @@
-<h2>Hi!👋🏻 My name is Matheus!</h2>
-<h3>But I go by the name of Math!</h3>
-
-###
+## Hiii,👋🏻 My name is Matheus! </>
+<p font-size="1px"><i>But I go by the name of Math!</i></p>
 
 <div align="center">
     <img alt="Matheus's github stats." height="165em" src="https://github-readme-stats.vercel.app/api?username=matheus-srego&theme=discord_old_blurple&show_icons=true" />
