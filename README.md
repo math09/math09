@@ -18,7 +18,7 @@ My name is Matheus, I'm brazilian, currently pursuing Computer Engineering at In
 
 📦 Docker is one of my go-to tools, helping me streamline development and deployment workflows.
 
-💬 Where to find me: [Discord](https://discordapp.com/users/325732460073713664) | [Chess.com](https://www.chess.com/) | [Spotify](https://open.spotify.com/user/matthew_27-br)
+💬 Where to find me: [Discord](https://discordapp.com/users/325732460073713664) | [Chess.com](https://www.chess.com/matheus-srego) | [Spotify](https://open.spotify.com/user/matthew_27-br)
 
 ##
 
